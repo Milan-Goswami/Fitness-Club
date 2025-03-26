@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002523138949",
+    "project_id": "fitnessclub-d8df9",
+    "storage_bucket": "fitnessclub-d8df9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002523138949:android:bd51fc16eaaf1c615902ec",
+        "android_client_info": {
+          "package_name": "com.example.fitness_club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QTJ2LHhrZ7LVsLv8Pi4fIrVzbVX4BEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
