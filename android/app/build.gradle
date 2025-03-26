@@ -63,4 +63,9 @@ dependencies{
 
     implementation platform('com.google.firebase:firebase-bom:33.11.0')
     implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.android.gms:play-services-mlkit-text-recognition:19.0.1' // Use the latest version
+    implementation 'com.google.mlkit:text-recognition-chinese:16.0.1' // Add for Chinese
+    implementation 'com.google.mlkit:text-recognition-devanagari:16.0.1' // Add for Devanagari
+    implementation 'com.google.mlkit:text-recognition-japanese:16.0.1' // Add for Japanese
+    implementation 'com.google.mlkit:text-recognition-korean:16.0.1' // Add for Korean
 }
